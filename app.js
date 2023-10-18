@@ -12,7 +12,7 @@ const tokenRouter = require("./routes/token");
 var app = express();
 
 let corsOptions = {
-  origin: "http://127.0.0.1:5173",
+  origin: true,
   credentials: true,
 };
 
