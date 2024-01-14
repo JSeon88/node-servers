@@ -17,7 +17,7 @@ router.post("/", async (req, res) => {
       { name: username, pw: password },
       process.env.JWT_SECRET,
       {
-        expiresIn: "100000ms",
+        expiresIn: "24d",
       }
     );
     const refreshToken = auth.refresh();
