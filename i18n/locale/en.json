@@ -1,0 +1,13 @@
+{
+  "error.message.remove.cache": "A new version is registered and needs to be refreshed.<br /> If repeated, please initialize and reload the cache.",
+  "error.message.unknown": "An error has occurred.",
+  "error.btn.refresh": "Refresh",
+  "console.alarm.new": "New notification",
+  "console.alarm.message.empty": "There are no new notifications.",
+  "console.alarm.message.alarm-history": "Existing notifications are available at {{activityLink}}.",
+  "console.alarm.activity": "Activity details",
+  "console.alarm.message.log.AD007": "Deployment of {{serviceName}} to {{projectName}} succeeded.",
+  "console.alarm.message.log.AD008": "Deployment of {{serviceName}} failed on {{projectName}}.",
+  "console.alarm.message.log.AD009": "The description for {{projectName}} has been changed.",
+  "console.btn.sidebar.open": "Opening the sidebar"
+}

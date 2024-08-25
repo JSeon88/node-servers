@@ -1,0 +1,28 @@
+{
+  "ko": {
+    "error.message.remove.cache": "새로운 버전이 등록되어 새로고침이 필요합니다.<br /> 반복되는 경우 캐시를 초기화하고 새로고침해주세요.",
+    "error.message.unknown": "오류가 발생하였습니다.",
+    "error.btn.refresh": "새로고침",
+    "console.alarm.new": "새로운 알림",
+    "console.alarm.message.empty": "새로운 알림이 없습니다.",
+    "console.alarm.message.alarm-history": "기존 알림은 {{activityLink}}에서 확인할 수 있습니다.",
+    "console.alarm.activity": "활동내역",
+    "console.alarm.message.log.AD007": "{{projectName}}에 {{serviceName}}이(가) 배포 성공하였습니다.",
+    "console.alarm.message.log.AD008": "{{projectName}}에 {{serviceName}}이(가) 배포 실패하였습니다.",
+    "console.alarm.message.log.AD009": "{{projectName}}의 설명이 변경되었습니다.",
+    "console.btn.sidebar.open": "사이드바 열기"
+  },
+  "en": {
+    "error.message.remove.cache": "A new version is registered and needs to be refreshed.<br /> If repeated, please initialize and reload the cache.",
+    "error.message.unknown": "An error has occurred.",
+    "error.btn.refresh": "Refresh",
+    "console.alarm.new": "New notification",
+    "console.alarm.message.empty": "There are no new notifications.",
+    "console.alarm.message.alarm-history": "Existing notifications are available at {{activityLink}}.",
+    "console.alarm.activity": "Activity details",
+    "console.alarm.message.log.AD007": "Deployment of {{serviceName}} to {{projectName}} succeeded.",
+    "console.alarm.message.log.AD008": "Deployment of {{serviceName}} failed on {{projectName}}.",
+    "console.alarm.message.log.AD009": "The description for {{projectName}} has been changed.",
+    "console.btn.sidebar.open": "Opening the sidebar"
+  }
+}
